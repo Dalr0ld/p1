@@ -1,0 +1,13 @@
+body{
+    background-color: #ff7f50;
+    color: antiquewhite;
+    text-align: right;
+}
+
+a{
+    font-size: 30px;
+}
+img{
+    border-style: solid cyan 3px;
+    width: 300px;
+}
